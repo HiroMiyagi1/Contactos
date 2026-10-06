@@ -1,2 +1,2 @@
 # Contactos
-registro de contactos
+registro de contactos. Agregar, ver contactos, actualizar, borrar.
